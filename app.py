@@ -11,12 +11,11 @@ from engines.yesbank.yesbank_main import (
 
 st.set_page_config(
     page_title="YesBank Report Generator",
-    page_icon="📄",
     layout="centered"
 )
 
 st.title(
-    "📄 YesBank Audit Report Generator"
+    "YesBank Audit Report Generator"
 )
 
 st.markdown(

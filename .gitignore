@@ -1,7 +1,12 @@
 __pycache__/
 *.pyc
+*.pyo
 
 output/
 temp/
 
 .env
+.DS_Store
+
+.vscode/
+.idea/

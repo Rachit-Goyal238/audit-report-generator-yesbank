@@ -1,7 +1,3 @@
 openpyxl==3.1.5
-PyMuPDF==1.27.2.3
-streamlit==1.58.0
 pandas==3.0.3
-pypdf==6.13.2
-streamlit  
-reportlab==0.1.0
+streamlit==1.58.0
